@@ -1,4 +1,5 @@
 # Coffee-Sales-Analysis
+![](https://github.com/Sumit-Karpe/Coffee-Sales-Analysis/blob/main/CoffeeSalesDashboard.png) 
 Interactive Excel Dashboard showcasing Coffee Sales Analytics including trends, top customers, and geographic sales insights.
 This project involves the creation of an interactive and insightful Excel dashboard for analyzing coffee sales data over four years. The dashboard is designed to provide business users and stakeholders with clear, actionable insights into sales performance, customer segmentation, and regional distribution.
 
